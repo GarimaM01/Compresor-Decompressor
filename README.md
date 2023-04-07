@@ -5,4 +5,4 @@
 
 • A new feature that allows the user to alter the file's size.
 
-• 
+• Used jswing and awt.
