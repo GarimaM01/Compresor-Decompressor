@@ -1,0 +1,11 @@
+lv 40 bring scf dms -as
+lv 45 bring -dgc
+lv 50 bring dms dgc -scf
+lv 55 bring scf dms -feral
+lv 60 bring -as
+lv 65 bring -bsb dms -dp
+lv 70 bring bsb dms -furry
+lv 75 bring -scf feral mh
+lv 80 bring scf mh -feral
+lv 85 bring-as -tcf mh
+lv 90 bring -furry dms -finger
